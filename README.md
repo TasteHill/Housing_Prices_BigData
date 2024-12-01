@@ -20,5 +20,5 @@
 
 ## 링크
 - [**데이터 전처리**](https://github.com/TasteHill/Housing_Prices_BigData/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC%20%EA%B3%BC%EC%A0%95.ipynb)
-- [**데이터 시각화**](https://github.com/TasteHill/Housing_Prices_BigData/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94.ipynb)
+- [**데이터 시각화 및 결론**](https://github.com/TasteHill/Housing_Prices_BigData/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94.ipynb)
 - [**인터랙티브 플롯**](https://github.com/TasteHill/Housing_Prices_BigData/tree/main/results)
